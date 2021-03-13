@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about stuff
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on machine learning projects
-- 📫 How to reach me - by finding my email on the internet
+- 📫 How to reach me - mail me
 
 <!---
 aka-rabbi/aka-rabbi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
