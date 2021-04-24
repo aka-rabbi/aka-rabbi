@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aka-rabbi
 - 👀 I’m interested in learning about stuff
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning data analysis with google on coursera
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me - mail me
 
