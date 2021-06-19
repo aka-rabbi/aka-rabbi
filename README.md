@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aka-rabbi
-- 👀 I’m interested in learning about stuff
+- 👋 Hi, I’m fazle rabbi from Dhaka, Bangladesh
+- 👀 I’m interested in learning about new technologies
 - 🌱 I’m currently learning data analysis with google on coursera
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me - mail me
