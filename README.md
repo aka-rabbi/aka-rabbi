@@ -1,7 +1,8 @@
 - 👋 Hi, I’m fazle rabbi from Dhaka, Bangladesh
 - 👀 I’m interested in learning about new technologies
-- 🌱 I’m currently learning data analysis with google on coursera
-- 💞️ I’m looking to collaborate on machine learning projects
+- 🥼 I’m currently working as a software engineer for Invisible Technologies Inc.
+- 🎃 I’m a Google cerified junior data analyst
+- ⚽ I'm an out an out athlete - I love playing soccer, running, cycling
 - 📫 How to reach me - mail me
 
 <!---
